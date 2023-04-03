@@ -1,4 +1,4 @@
-#cloud function triggers gcs
+
 import requests
 
 # Cloud Function to convert CSV to Parquet
